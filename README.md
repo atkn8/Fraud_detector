@@ -1,6 +1,6 @@
 # Fraud_detector
 AWS CLUB PROJECT
-# Fraud Detector 🕵️‍♀️💳
+# Fraud Detector 
 
 AWS Club Project
 
